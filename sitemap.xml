@@ -1,0 +1,42 @@
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- ホーム -->
+    <url>
+        <loc>https://kindaibogyo.github.io/KindaiBogyo/</loc>
+    </url>
+
+    <!-- 私たちについて -->
+    <url>
+        <loc>https://kindaibogyo.github.io/KindaiBogyo/about.html</loc>
+    </url>
+
+    <!-- 波動とは？ -->
+    <url>
+        <loc>https://kindaibogyo.github.io/KindaiBogyo/wave.html</loc>
+    </url>
+
+    <!-- SAC理論とは？ -->
+    <url>
+        <loc>https://kindaibogyo.github.io/KindaiBogyo/sac.html</loc>
+    </url>
+
+    <!-- 星辰環動共鳴札とは？ -->
+    <url>
+        <loc>https://kindaibogyo.github.io/KindaiBogyo/talisman.html</loc>
+    </url>
+
+    <!-- 星辰静謐環とは？ -->
+    <url>
+        <loc>https://kindaibogyo.github.io/KindaiBogyo/seijyaku.html</loc>
+    </url>
+
+    <!-- お買い求め -->
+    <url>
+        <loc>https://kindaibogyo.github.io/KindaiBogyo/shop.html</loc>
+    </url>
+
+</urlset>
+```
